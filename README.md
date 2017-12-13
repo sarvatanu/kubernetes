@@ -44,5 +44,7 @@ Note : virtual box should be installed
  * kubectl create -f service.yml
  * kubectl describe svc
  * kubectl get service (svc or service keyword)
+ 
+ Note: label on pods should match selector label on service.yml
 # Replica set
 # Deployments
