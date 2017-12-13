@@ -24,6 +24,13 @@ Note : virtual box should be installed
      * kube proxy : load balancer
      * container  runtime: like rocket(rkt) or docker
 # Pods
+ contains group of corelated contains. To create pods
+ 
+ * minikube start
+ * kubectl get pods --> to check current pods
+ * kubectl create -f filepath 
+   * File path ex: /Users/saravanan/personal/projects/kubernetes
+ * kubectl describe pods --> to check the activities
 # Services
 # Replica set
 # Deployments
