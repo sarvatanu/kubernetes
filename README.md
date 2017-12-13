@@ -14,6 +14,11 @@ Note : virtual box should be installed
  kubectl config current-context which will display minikube
  
 # Master Node
+
+   Kube API Server
+     Scheduler for scheduling the contaier,
+     cluster store etcd : 
+     API Controller (watcher) for managing the Nodes
 # Pods
 # Services
 # Replica set
