@@ -54,7 +54,7 @@ to launch the service :
 
 * minikube service house-api-svc-v1
 
-on the launched URL use /apihouse
+on the launched URL use /api/house
 # Replica set
 # Deployments
  Is a new thing in Kubernetes
