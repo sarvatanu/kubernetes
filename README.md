@@ -11,7 +11,7 @@ Kubernetes is a open sourced framework for automatic deployment, scaling and man
 Note : virtual box should be installed
 
 * Current context : 
- + kubectl config current-context which will display minikube
+ kubectl config current-context which will display minikube
  
 # Master Node
 # Pods
