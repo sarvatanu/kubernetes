@@ -20,9 +20,9 @@ Note : virtual box should be installed
      * cluster store etcd : 
      * API Controller (watcher) for managing the endpoints like namespace endpoints, node endpoints etc
    * Nodes
-    * Kubelet : reposible for reporting to master
-    * kube proxy : load balancer
-    * container run time like rocket(rkt) or docker
+     * Kubelet agent : reposible for reporting to master
+     * kube proxy : load balancer
+     * container  runtime: like rocket(rkt) or docker
 # Pods
 # Services
 # Replica set
