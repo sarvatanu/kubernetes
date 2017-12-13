@@ -40,5 +40,9 @@ Note : virtual box should be installed
  Services can have static IP, DNS, Port 
  
  From Client --> Service --> Pods
+ 
+ * kubectl create -f service.yml
+ * kubectl describe svc
+ * kubectl get service (svc or service keyword)
 # Replica set
 # Deployments
