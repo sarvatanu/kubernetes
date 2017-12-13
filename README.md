@@ -57,3 +57,4 @@ to launch the service :
 on the launched URL use /apihouse
 # Replica set
 # Deployments
+ Is a new thing in Kubernetes
