@@ -35,9 +35,10 @@ Note : virtual box should be installed
  * kubectl logs name --> pass name of the pod to get the logs
 * Display dashboard using 'minikube dashboard'
 # Services
- With mortal nature of the pods(can come up and go down any time), serviecs will be best option to connect to available pods
+ With mortal nature of the pods(can come up and go down any time), serviecs will be best option for service discover to connect to available pods
  
  Services can have static IP, DNS, Port 
+ 
  From Client --> Service --> Pods
 # Replica set
 # Deployments
