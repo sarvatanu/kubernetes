@@ -1,2 +1,3 @@
 Introduction to Kubernetes : https://www.youtube.com/watch?v=MstlDlaW5-4&index=1&list=PLBXIE6LEHKLd3Di6VX7tlKf2JYVPZbx4S
 Prometheus kubernetes deomo : https://github.com/bakins/minikube-prometheus-demo
+Kubernetes opertaions (Kops) : https://github.com/kubernetes/kops
