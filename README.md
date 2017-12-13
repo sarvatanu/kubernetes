@@ -31,6 +31,7 @@ Note : virtual box should be installed
  * kubectl create -f filepath 
    * File path ex: /Users/saravanan/personal/projects/kubernetes
  * kubectl describe pods --> to check the activities
+ * kubectl get pods --show-labels
 # Services
 # Replica set
 # Deployments
