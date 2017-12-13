@@ -19,6 +19,10 @@ Note : virtual box should be installed
      * Scheduler for scheduling the contaier,
      * cluster store etcd : 
      * API Controller (watcher) for managing the endpoints like namespace endpoints, node endpoints etc
+   * Nodes
+    * Kubelet : reposible for reporting to master
+    * kube proxy : load balancer
+    * container run time like rocket(rkt) or docker
 # Pods
 # Services
 # Replica set
