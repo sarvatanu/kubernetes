@@ -15,10 +15,10 @@ Note : virtual box should be installed
  
 # Master Node
 
-   Kube API Server
-     Scheduler for scheduling the contaier,
-     cluster store etcd : 
-     API Controller (watcher) for managing the Nodes
+   * Kube API Server
+     * Scheduler for scheduling the contaier,
+     * cluster store etcd : 
+     * API Controller (watcher) for managing the endpoints like namespace endpoints, node endpoints etc
 # Pods
 # Services
 # Replica set
