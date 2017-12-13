@@ -53,5 +53,7 @@ Note : virtual box should be installed
 to launch the service : 
 
 * minikube service house-api-svc-v1
+
+on the launched URL use /apihouse
 # Replica set
 # Deployments
