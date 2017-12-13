@@ -50,6 +50,8 @@ Note : virtual box should be installed
  
  Note: label on pods should match selector label on service.yml
  
+to launch the service : 
 
+* minikube service house-api-svc-v1
 # Replica set
 # Deployments
