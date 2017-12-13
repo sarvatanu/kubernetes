@@ -15,7 +15,7 @@ Note : virtual box should be installed
  
 # Master Node
 
-   * Kube API Server
+   * Kube API Server : Main gateway in Kubernetes
      * Scheduler for scheduling the contaier,
      * cluster store etcd : 
      * API Controller (watcher) for managing the endpoints like namespace endpoints, node endpoints etc
