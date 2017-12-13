@@ -45,6 +45,11 @@ Note : virtual box should be installed
  * kubectl describe svc
  * kubectl get service (svc or service keyword)
  
+ * kubectl create -f replicaController.yml --> rc getting phasedout in favour replication set.
+ * kubeclt describe rc
+ 
  Note: label on pods should match selector label on service.yml
+ 
+
 # Replica set
 # Deployments
