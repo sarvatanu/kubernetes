@@ -1,4 +1,4 @@
-# kubernetes
+# kubernetes  sample Edit
 
 Kubernetes is a open sourced framework for automatic deployment, scaling and managing the container based application.
 
@@ -25,6 +25,9 @@ Note : virtual box should be installed
      * container  runtime: like rocket(rkt) or docker
 # Pods
  contains group of corelated contains. To create pods
+
+
+
  
  * minikube start
  * kubectl get pods --> to check current pods
